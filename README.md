@@ -3,7 +3,7 @@
 
 Ссылка на проект  https://web.telegram.org/k/#@Evgenevich1Bot
 
-![image](https://github.com/user-attachments/assets/efff7e74-44bc-4336-93ef-e9b3b127a429)
+![image] https://github.com/Andreyprompt/ai_assistent/blob/main/2025-06-23_16-23-35.png?raw=true
 
 
 ## Описание проекта
