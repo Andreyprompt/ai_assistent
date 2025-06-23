@@ -5,6 +5,7 @@
 
 ![image] https://github.com/Andreyprompt/ai_assistent/blob/main/2025-06-23_16-23-35.png?raw=true
 
+![Иллюстрация к проекту](https://example.com/image.png)
 
 ## Описание проекта
 
